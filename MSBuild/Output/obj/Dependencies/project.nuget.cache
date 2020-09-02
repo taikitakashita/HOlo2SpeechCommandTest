@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "lhkA1L8xMzaqAiS2jksCD09Yw4CVaMesneWRlMRglBuy8qW2W32ClS+EOHVQCvB+8SwhoIkwcEDS2dzAwzi7Xw==",
+  "success": false,
+  "projectFilePath": "D:\\UnityProject2020\\HOlo2SpeechCommandTest\\Assets\\SpeechCommandTest.Dependencies.msb4u.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "パッケージ MSBuildForUnity が見つかりません。ソース Microsoft Visual Studio Offline Packages, NuGet, nuget.org には、この ID のパッケージが存在しません。",
+      "libraryId": "MSBuildForUnity",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.6"
+      ]
+    }
+  ]
+}

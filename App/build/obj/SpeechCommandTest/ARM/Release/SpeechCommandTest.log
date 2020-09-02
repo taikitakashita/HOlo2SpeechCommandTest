@@ -1,0 +1,7 @@
+﻿  App.cpp
+  UnityGenerated.cpp
+D:\UnityProject2020\HOlo2SpeechCommandTest\App\SpeechCommandTest\App.cpp(26,1): warning C4973: 'Windows::UI::ViewManagement::IApplicationView2::SuppressSystemOverlays::set': 非推奨として設定されています
+D:\UnityProject2020\HOlo2SpeechCommandTest\App\SpeechCommandTest\App.cpp(26,1): message : メッセージ: 'Use the TryEnterFullScreen method and IsFullScreenMode property instead of SuppressSystemOverlays. For more info, see MSDN.'
+  コード生成しています。
+  コード生成が終了しました。
+  SpeechCommandTest.vcxproj -> D:\UnityProject2020\HOlo2SpeechCommandTest\App\build\bin\ARM\Release\SpeechCommandTest.exe

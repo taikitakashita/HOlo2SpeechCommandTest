@@ -1,0 +1,104 @@
+{
+  "list": [
+    {
+      "machine": "T1",
+      "manual": [
+        {
+          "name": "竹下ss ３号バンク・フィーダー保護盤ロック",
+          "operation": [
+            {
+              "kaiheiki": "４３－６４ＶＧ",
+              "kaiheikikana": "よんさんのろくよんぶいじーかくにんよし",
+              "sousa": "",
+              "sousakana": "",
+              "kakunin": "ロック確認",
+              "kakuninkana": "ろっくかくにんよし",
+              "movie": ""
+            },
+            {
+              "kaiheiki": "４３－６４Ｂ",
+              "kaiheikikana": "よんさんのろくよんびーかくにんよし",
+              "sousa": "ロック",
+              "sousakana": "ろっくよし",
+              "kakunin": "",
+              "kakuninkana": "",
+              "movie": ""
+            },
+            {
+              "kaiheiki": "４３－６４ＢＰ",
+              "kaiheikikana": "よんさんのろくよんびーぴーかくにんよし",
+              "sousa": "ロック",
+              "sousakana": "ろっくよし",
+              "kakunin": "",
+              "kakuninkana": "",
+              "movie": ""
+            },
+            {
+              "kaiheiki": "４３－７９",
+              "kaiheikikana": "よんさんのななきゅーかくにんよし",
+              "sousa": "",
+              "sousakana": "",
+              "kakunin": "ロック確認",
+              "kakuninkana": "ろっくかくにんよし",
+              "movie": ""
+            },
+            {
+              "kaiheiki": "６－１３０ トリップロック赤Ｔ・Ｔ",
+              "kaiheikikana": "ろくまんのひゃくさんじゅうとりっぷろっくあかてーてーかくにんよし",
+              "sousa": "外し",
+              "sousakana": "はずしよし",
+              "kakunin": "",
+              "kakuninkana": "",
+              "movie": ""
+            },
+            {
+              "kaiheiki": "Ｍ－３００ トリップロック赤Ｔ・Ｔ",
+              "kaiheikikana": "えむのさんびゃくとりっぷろっくあかてーてーかくにんよし",
+              "sousa": "外し",
+              "sousakana": "はずしよし",
+              "kakunin": "",
+              "kakuninkana": "",
+              "movie": ""
+            },
+            {
+              "kaiheiki": "８Ｒ",
+              "kaiheikikana": "はちあーるかくにんよし",
+              "sousa": "切",
+              "sousakana": "きりよし",
+              "kakunin": "",
+              "kakuninkana": "",
+              "movie": ""
+            },
+            {
+              "kaiheiki": "３号配変１次 ＣＴ２次プラグ",
+              "kaiheikikana": "さんごうはいへんいちじしーてぃーにじぷらぐかくにんよし",
+              "sousa": "引出し",
+              "sousakana": "ひきだしよし",
+              "kakunin": "",
+              "kakuninkana": "",
+              "movie": "03.mp4"
+            },
+            {
+              "kaiheiki": "３号配変２次 ＣＴ２次プラグ",
+              "kaiheikikana": "さんごうはいへんにじしーてぃーにじぷらぐかくにんよし",
+              "sousa": "引出し",
+              "sousakana": "ひきだしよし",
+              "kakunin": "",
+              "kakuninkana": "",
+              "movie": "04.mp4"
+            },
+            {
+              "kaiheiki": "６６ｋＶ ＰＤ３次Ｔ・Ｔ",
+              "kaiheikikana": "ろくまんろくせんぼるとぴーでぃーさんじてーてーかくにんよし",
+              "sousa": "外し",
+              "sousakana": "はずしよし",
+              "kakunin": "",
+              "kakuninkana": "",
+              "movie": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
